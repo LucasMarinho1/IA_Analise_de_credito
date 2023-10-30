@@ -1,4 +1,4 @@
-# Projeto de Análise de Crédito
+# Projeto de Análise de Crédito utilizando Inteligencia Artificial
 
 Este é um projeto de análise de crédito que utiliza Python 3.10.11 para prever a probabilidade de um cliente se tornar um mau pagador. O projeto utiliza um conjunto de dados que inclui informações sobre os clientes, como sexo, posse de veículo, posse de imóvel, entre outras.
 
